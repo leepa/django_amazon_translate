@@ -1,3 +1,5 @@
+    Just use tooling that GenAI provides. These days you don't need this!
+
 =======================
 Django Amazon Translate
 =======================
