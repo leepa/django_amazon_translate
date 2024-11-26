@@ -19,3 +19,4 @@ django-modeltranslation>=0.13.1,<1.0'
 boto3>=1.9,<=1.13'
 polib>=1.1.0,<2'
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
