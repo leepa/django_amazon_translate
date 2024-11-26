@@ -14,8 +14,11 @@ pytest-runner==5.2
 pytest-mock==2.0.0
 pytest-djangoapp==0.14.0
 
-django>=1.11
+django>=3.2.15
 django-modeltranslation>=0.13.1,<1.0'
 boto3>=1.9,<=1.13'
 polib>=1.1.0,<2'
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+certifi>=2022.12.7 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+urllib3>=1.26.5 # not directly required, pinned by Snyk to avoid a vulnerability
